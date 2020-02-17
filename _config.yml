@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Facerec
-description: A tutorial of how I built face unlock for Ubuntu Linux and how you can install that in your system as well.
-github_username: rushabh-v
+title: Rushabh Vasani
+description: Here I will be sharing my experiences or my Ideas and will also be posting my blogs.
+github_username:   rushabh-v
 
 # Email and twitter are optional
-email: vasanirushabh24@gmail.com
-twitter_username: rushabh_24
+email:   vasanirushabh24@gmail.com
+twitter_username:   rushabh_24
 
 # Set this to true to get LaTeX math equation support
 use_math: 
